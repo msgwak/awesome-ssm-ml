@@ -164,6 +164,7 @@
 
 ## Systems Optimizations
 1. [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://arxiv.org/abs/2411.19379)
+2. [Layer-Adaptive State Pruning for Deep State Space Models](https://arxiv.org/abs/2411.02824) (NeurIPS 2024) [[code]](https://github.com/msgwak/LAST)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
